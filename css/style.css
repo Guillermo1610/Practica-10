@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+      background-color: rgba(94, 253, 62, 0.979);
+}
+nav{
+    background-color: rgb(235, 231, 36);
+}
+ul li a{
+    height: 60px; /*Altura*/
+    background-color: #333; /*Color de fonda*/
+    display: block;
+    border-left: 10px solid rgb(255, 0, 170);
+    border-right: 5px solid rgb(18, 155, 155);
+    padding-left: 15px; /*Separacion de izquierda del texto*/
+    text-decoration: none;
+    color:royalblue;
+}
+br{
+    color: rgba(63, 27, 196, 0.979);
+}
+footer{
+    
+    margin-top: 30px;
+    width: 100%;
+    height: 200px;
+    background-color: orchid;
+    text-align: center;
+    color: rgb(8, 29, 153);
+}
+
+    
